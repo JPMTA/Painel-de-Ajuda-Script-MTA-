@@ -1,0 +1,20 @@
+<!-- SCRIPT DESENVOLVIDO PELO JP -->
+<!-- VOCÊ PODE ALTERAR E MODIFICAR DO JEITO QUE QUISER -->
+<!-- NÃO VENDA A VERSÃO ORIGINAL DESTE PROJETO -->
+
+<meta>
+    <info name="Painel de Ajuda" author="JP MTA" version="0.1" />
+
+    <script src="painel.lua" type="client" cache="false" />
+
+    <file src="img/info.png" />
+    <file src="img/seta.png" />
+    <file src="img/duvida.png" />
+    <file src="img/comandos.png" />
+    <file src="img/salarios.png" />
+    <file src="img/veiculos.png" />
+
+    <file src="som/actionJoin.mp3" />
+    <file src="som/actionLeave.wav" />
+    <file src="som/option.wav" />
+</meta>
